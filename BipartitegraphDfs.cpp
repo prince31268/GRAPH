@@ -21,9 +21,6 @@
 // Consider the following graph and its adjacency list.
 
 
-// Consider the following illustration to understand the colouring of the nodes using DFS traversal.
-
-
 // Code:
 
 #include<bits/stdc++.h>
